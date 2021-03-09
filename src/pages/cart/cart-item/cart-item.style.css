@@ -1,0 +1,15 @@
+.cart-item-grid {
+  text-align: center;
+  margin: 1rem auto;
+  display: grid;
+  justify-items: center;
+}
+
+.cart-image > img {
+  width: 15%;
+  box-shadow: 15px 8px 10px -17px #000000;
+}
+
+.buttons {
+  transform: translateY(-2rem);
+}

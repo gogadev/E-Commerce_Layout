@@ -1,0 +1,26 @@
+.navbar {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  margin: 1rem auto;
+  text-align: center;
+  margin-right: 3rem;
+}
+
+.navbar-title {
+  margin: 3rem auto;
+  color: orange;
+  font-style: italic;
+}
+
+.navbar-menu {
+  display: flex;
+}
+
+.buttons {
+  margin: 2rem auto;
+}
+
+.img {
+  width: 18%;
+}

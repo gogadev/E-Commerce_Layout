@@ -1,0 +1,9 @@
+.spinner {
+  display: grid;
+  place-items: center;
+  margin: 4.5rem auto;
+}
+
+.spinner > img {
+  width: 70%;
+}
